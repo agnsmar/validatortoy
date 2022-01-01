@@ -59,7 +59,7 @@ template.innerHTML = `
       <p>→</p>
       <p id="result">0</p></div>
     <div class="item">
-      <input type="range" value=0>
+      <input type="range" value=0 disabled>
       <span id="left">0</span>
       <span id="right">100</span>
     </div>
